@@ -3,13 +3,22 @@ import { useParams } from 'react-router-dom';
 import projetData from '../../projet.json';
 import './projetDetail.css';
 import GitLogo from './logoGit.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
+import Header from "../../header/headerProjet"
 
 function ProjetDetails() {
   const { id } = useParams();
   const projet = projetData.find(projet => projet.id === id.toString());
 
   return (
+    <div>
+    <Header/>
     <div className='style-container-projet'>
+      <Link to="/" className='style-arrow'>
+        <FontAwesomeIcon icon={faArrowLeft} />
+      </Link>
       <div className='postition-titre-tag'>
           <h1>{projet.title}</h1>
           <div className='tags-container'>
@@ -29,8 +38,11 @@ function ProjetDetails() {
             </a>
           </div>
         </div>
+        <a href={projet.site} target="_blank" rel="noopener noreferrer" className='site'>
           <img src={projet.cover} alt='presentation projet'/>
+        </a>
       </div>
+    </div>
     </div>
   );
 }

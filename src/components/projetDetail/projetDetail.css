@@ -4,7 +4,7 @@
 }
 
 .position-description-image img {
-    width: 60%;
+    width: 90%;
     padding: 40px;
     border-radius: 70px;
 }
@@ -58,4 +58,13 @@
 
 .alignement-logo-git {
     text-align: center;
+}
+
+.site {
+    width: 60%;
+}
+
+.style-arrow {
+    font-size: 40px;
+    color: black;
 }

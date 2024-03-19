@@ -4,6 +4,7 @@
         "title": "Booki",
         "cover": "/image/booki.png",
         "link": "https://github.com/ocebert31/booki-starter-code-master",
+        "site": "https://timely-llama-55edb7.netlify.app",
         "tags": [
             "HTML",
             "CSS",
@@ -17,6 +18,7 @@
         "title": "Sophie Buel",
         "cover": "/image/sophie.png",
         "link": "https://github.com/ocebert31/Portfolio-architecte-sophie-bluel-master",
+        "site": "https://playful-treacle-3ca505.netlify.app/index.html",
         "tags": [
             "HTML",
             "CSS",
@@ -30,6 +32,7 @@
         "title": "Kasa",
         "cover": "/image/kasa.png",
         "link": "https://github.com/ocebert31/creez-une-application-web-de-location-immobiliere",
+        "site": "https://harmonious-mousse-8e81fa.netlify.app",
         "tags": [
             "HTML",
             "SCSS",
@@ -44,6 +47,7 @@
         "title": "Mon vieux Grimoire",
         "cover": "/image/grimoire.png",
         "link": "https://github.com/ocebert31/P7-Dev-Web-livres-main",
+        "site": "https://master--creative-croquembouche-db6e78.netlify.app/",
         "tags": [
             "React",
             "Express Js",
