@@ -1,0 +1,56 @@
+[
+    {
+        "id": "sdakq7v9",
+        "title": "Booki",
+        "cover": "/image/booki.png",
+        "link": "https://github.com/ocebert31/booki-starter-code-master",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Test",
+            "Responsive"
+        ],
+        "description": "Dans le cadre de ma formation sur Openclassrooms pour devenir développeuse web, j'ai entrepris un projet visant à explorer et à maîtriser les fondamentaux du développement web, notamment le HTML et le CSS. Ce projet consistait à concevoir la partie frontend d'une plateforme de réservation d'hébergement en ligne appelée Booki."
+    },
+    {
+        "id": "qjk6hv89",
+        "title": "Sophie Buel",
+        "cover": "/image/sophie.png",
+        "link": "https://github.com/ocebert31/Portfolio-architecte-sophie-bluel-master",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "API"
+        ],
+        "description": "Ce projet a été élaboré dans le cadre de ma formation en développement web chez OpenClassrooms. Son objectif principal était de maîtriser JavaScript pour créer des pages web interactives et dynamiques. L'application présente les réalisations d'une architecte d'intérieur et met en œuvre une gestion de données via une API, permettant ainsi une génération dynamique de contenu. Cette approche offre une maintenance simplifiée grâce à un espace administrateur spécialement conçu à cet effet."
+    },
+    {
+        "id": "s8cmn0qi",
+        "title": "Kasa",
+        "cover": "/image/kasa.png",
+        "link": "https://github.com/ocebert31/creez-une-application-web-de-location-immobiliere",
+        "tags": [
+            "HTML",
+            "SCSS",
+            "Javascript",
+            "React",
+            "API"
+        ],
+        "description": "Projet mené durant ma formation de développeur web chez Openclassroom, mettant l'accent sur l'exploration de React, des hooks, du système de routage et des composants."
+    },
+    {
+        "id": "jo9n6gt34",
+        "title": "Mon vieux Grimoire",
+        "cover": "/image/grimoire.png",
+        "link": "https://github.com/ocebert31/P7-Dev-Web-livres-main",
+        "tags": [
+            "React",
+            "Express Js",
+            "Javascript",
+            "Mongo DB",
+            "Node Js"
+        ],
+        "description": "Ce projet a été entrepris dans le cadre de ma formation de développeur web chez Openclassrooms, avec un accent mis sur le développement de la partie Backend d'une plateforme de notation de livres. Les technologies principales utilisées comprenaient React pour le côté client, Express.js et Node.js pour la logique serveur, ainsi que MongoDB pour la gestion de la base de données."
+    }
+]

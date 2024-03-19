@@ -1,0 +1,17 @@
+.hobby {
+    font-size: 20px;
+    text-align: center;
+}
+
+.alignement {
+    margin: 0px 40px 0px 40px;
+    line-height: 2;
+}
+
+.slogan {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 50px;
+}

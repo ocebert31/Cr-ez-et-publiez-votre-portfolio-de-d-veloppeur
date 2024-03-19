@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 50px 40px 50px;
+    background-color: rgb(80, 46, 46);
+    color: white;
+}
+
+.footer-left {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.style-link {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size:20px
+}

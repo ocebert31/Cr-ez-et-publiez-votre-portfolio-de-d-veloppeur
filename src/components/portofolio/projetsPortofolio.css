@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    background-color: rgb(80, 46, 46);
+    margin: 50px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+
+.image-container {
+    display: inline-block; 
+    width: 50%;
+}
+
+.image-container img {
+    max-width: 100%; 
+    border-radius: 20px;
+    height: 200px;
+}
+
+.style-title {
+    color: inherit;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: underline;
+}
+
+.size-projet {
+    width: 50%;
+    height: 300px;
+    background-color: rgb(80, 46, 46);
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+.columns {
+    display: flex; 
+    justify-content: space-between;
+    margin: 20px 180px 20px 180px;
+}
+
+
+.column img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.column p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+

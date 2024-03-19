@@ -1,0 +1,61 @@
+.position-description-image {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.position-description-image img {
+    width: 60%;
+    padding: 40px;
+    border-radius: 70px;
+}
+
+.position-info {
+    width: 40%;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.position-info img {
+    width: 40%;
+    padding: 0;
+}
+
+.style-container-projet {
+    padding: 20px 60px 60px 60px;
+    background-color: #bdb3b3;
+    margin: 40px;
+}
+
+.postition-titre-tag {
+    padding-left: 40px;
+}
+
+.postition-titre-tag h1{
+    font-size: 58px;
+    text-align: center;
+}
+
+.tag{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(47, 46, 46);
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 22px;
+    margin: 10px;
+    border-radius: 40px;
+}
+
+.tags-container {
+    text-align: center;
+}
+
+.git-logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.alignement-logo-git {
+    text-align: center;
+}
