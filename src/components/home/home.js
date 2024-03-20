@@ -18,7 +18,7 @@ function Home() {
             <div className='container-info'>
                 <p className='info'>Après l'obtention du baccalauréat, j'ai décidé de me lancer dans la formation Openclassroom. 
                 Elle m'a offert l'opportunité de plonger dans le monde du développement en prenant part à la construction de multiples projets.
-                Cette expérience me permet d'acquérir des compétences en : Frontend, Backend, optimisation de site </p>
+                Cette expérience m'a permise d'acquérir des compétences en : Frontend, Backend, optimisation de site </p>
                 <p className='question'>Pourquoi me choisir ?</p>
                 <p className='reponse'>Je me distingue par ma curiosité incessante et mon engagement sans faille dans le domaine du web</p>
             </div>

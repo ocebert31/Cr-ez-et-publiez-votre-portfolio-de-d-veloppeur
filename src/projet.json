@@ -12,7 +12,7 @@
             "Test",
             "Responsive"
         ],
-        "description": "Dans le cadre de ma formation sur Openclassrooms pour devenir développeuse web, j'ai entrepris un projet visant à explorer et à maîtriser les fondamentaux du développement web, notamment le HTML et le CSS. Ce projet consistait à concevoir la partie frontend d'une plateforme de réservation d'hébergement en ligne appelée Booki."
+        "description": "Dans le cadre de ma formation chez Openclassroom pour devenir développeuse web, j'ai entrepris un projet visant à explorer et à maîtriser les fondamentaux du développement web, notamment le HTML et le CSS. Ce projet consistait à concevoir la partie frontend d'une plateforme de réservation d'hébergement en ligne appelée Booki."
     },
     {
         "id": "qjk6hv89",
@@ -27,7 +27,7 @@
             "Javascript",
             "API"
         ],
-        "description": "Ce projet a été élaboré dans le cadre de ma formation en développement web chez OpenClassrooms. Son objectif principal était de maîtriser JavaScript pour créer des pages web interactives et dynamiques. L'application présente les réalisations d'une architecte d'intérieur et met en œuvre une gestion de données via une API, permettant ainsi une génération dynamique de contenu. Cette approche offre une maintenance simplifiée grâce à un espace administrateur spécialement conçu à cet effet."
+        "description": "Ce projet a été élaboré dans le cadre de ma formation en développement web chez OpenClassroom. Son objectif principal était de maîtriser JavaScript pour créer des pages web interactives et dynamiques. L'application présente les réalisations d'une architecte d'intérieur et met en œuvre une gestion de données via une API, permettant ainsi une génération dynamique de contenu. Cette approche offre une maintenance simplifiée grâce à un espace administrateur spécialement conçu à cet effet."
     },
     {
         "id": "s8cmn0qi",
@@ -59,6 +59,6 @@
             "Mongo DB",
             "Node Js"
         ],
-        "description": "Ce projet a été entrepris dans le cadre de ma formation de développeur web chez Openclassrooms, avec un accent mis sur le développement de la partie Backend d'une plateforme de notation de livres. Les technologies principales utilisées comprenaient React pour le côté client, Express.js et Node.js pour la logique serveur, ainsi que MongoDB pour la gestion de la base de données."
+        "description": "Ce projet a été entrepris dans le cadre de ma formation de développeur web chez Openclassroom, avec un accent mis sur le développement de la partie Backend d'une plateforme de notation de livres. Les technologies principales utilisées comprenaient React pour le côté client, Express.js et Node.js pour la logique serveur, ainsi que MongoDB pour la gestion de la base de données."
     }
 ]
