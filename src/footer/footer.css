@@ -18,3 +18,23 @@
     font-weight: 600;
     font-size:20px
 }
+
+@media screen and (min-width: 320px) and (max-width: 650px) {
+  .footer {
+    text-align: center;
+    display: block;
+  }
+
+  .footer-left {
+    font-size: 16px;
+  }
+
+  .style-link-footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .style-link {
+    font-size: 16px;
+  }
+}

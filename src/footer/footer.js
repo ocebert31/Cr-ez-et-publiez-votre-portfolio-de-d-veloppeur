@@ -7,7 +7,7 @@ function footer() {
             <div>
                 <p className='footer-left'>© 2024 Oceane Bertrand </p>
             </div>
-            <nav>
+            <nav className='style-link-footer'>
                 <a className='style-link' href="https://github.com/ocebert31"> GitHub</a>
                 <a className='style-link' href="https://www.linkedin.com/in/oc%C3%A9ane-bertrand-39b5a324b/"> Linkedin</a>
             </nav>
