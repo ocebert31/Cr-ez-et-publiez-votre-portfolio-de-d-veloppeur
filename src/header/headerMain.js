@@ -1,12 +1,12 @@
 import React from 'react';
 import './headerMain.css';
-import Logo from './logoPortfolio.png';
+import Logo from './logoPortfolio.webp';
 
 function header() {
   return (
     <header className='header'>
         <div>
-            <img src={Logo} alt='logo' className='header-left'/>
+            <img src={Logo} alt='logo de mon portofolio avec mes initiales' className='header-left' loading="lazy"/>
         </div>
         <nav>
             <a href='#présentation' className='style-link-header'>Présentation</a>

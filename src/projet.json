@@ -2,9 +2,10 @@
     {
         "id": "sdakq7v9",
         "title": "Booki",
-        "cover": "/image/booki.png",
+        "cover": "/image/booki.webp",
         "link": "https://github.com/ocebert31/booki-starter-code-master",
         "site": "https://timely-llama-55edb7.netlify.app",
+        "altImage": "Projet Booki",
         "tags": [
             "HTML",
             "CSS",
@@ -16,9 +17,10 @@
     {
         "id": "qjk6hv89",
         "title": "Sophie Buel",
-        "cover": "/image/sophie.png",
+        "cover": "/image/sophie.webp",
         "link": "https://github.com/ocebert31/Portfolio-architecte-sophie-bluel-master",
         "site": "https://playful-treacle-3ca505.netlify.app/index.html",
+        "altImage": "Projet Sophie Buel",
         "tags": [
             "HTML",
             "CSS",
@@ -30,9 +32,10 @@
     {
         "id": "s8cmn0qi",
         "title": "Kasa",
-        "cover": "/image/kasa.png",
+        "cover": "/image/kasa.webp",
         "link": "https://github.com/ocebert31/creez-une-application-web-de-location-immobiliere",
         "site": "https://harmonious-mousse-8e81fa.netlify.app",
+        "altImage": "Projet Kasa",
         "tags": [
             "HTML",
             "SCSS",
@@ -45,9 +48,10 @@
     {
         "id": "jo9n6gt34",
         "title": "Mon vieux Grimoire",
-        "cover": "/image/grimoire.png",
+        "cover": "/image/grimoire.webp",
         "link": "https://github.com/ocebert31/P7-Dev-Web-livres-main",
         "site": "https://master--creative-croquembouche-db6e78.netlify.app/",
+        "altImage": "Projet Mon vieux Grimoire",
         "tags": [
             "React",
             "Express Js",

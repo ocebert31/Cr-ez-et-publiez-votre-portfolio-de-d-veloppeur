@@ -12,7 +12,7 @@ function Projet() {
                         {/* Utilisez Link pour créer un lien vers la page détaillée de chaque projet */}
                         <h1 className='style-title'>{projet.title}</h1>
                         <div className='image-container'>
-                            <img src={projet.cover} alt='projet'/>
+                            <img src={projet.cover} alt={projet.altImage} loading="lazy"/>
                         </div>
                     </Link>
                 ))}
