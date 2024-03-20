@@ -10,7 +10,7 @@
   width: 200px;
 }
 
-.style-link {
+.style-link-header {
     padding-right: 25px;
     text-decoration: none;
     color: white;
@@ -18,6 +18,22 @@
     font-size:20px
 }
 
-.style-link:hover {
+.style-link-header:hover {
     text-decoration: underline;
 }
+
+@media screen and (min-width: 650px) and (max-width: 960px) {
+    .header {
+        display: block;
+        text-align: center;
+    }
+
+    .header-left {
+        padding-bottom: 20px;
+    }
+
+    .style-link-header {
+        font-size: 17px;
+    }
+}
+  

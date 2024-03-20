@@ -12,7 +12,11 @@
 .position-info {
     width: 40%;
     padding-top: 30px;
-    font-size: 30px;
+    font-size: 20px;
+}
+
+.position-info p {
+    padding: 0px 20px 20px 20px;
 }
 
 .position-info img {
@@ -67,4 +71,31 @@
 .style-arrow {
     font-size: 40px;
     color: black;
+}
+
+@media screen and (min-width: 650px) and (max-width: 1050px) {
+    .tags-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tag {
+        width: 70%;
+    }
+
+    .position-description-image {
+        display: flex;
+        flex-direction: column;
+      }
+    
+      .position-info {
+        margin-top: 20px;
+        width: 100%;
+        font-size: 22px;
+      }
+
+    .site {
+        width: 100%;
+    }
 }

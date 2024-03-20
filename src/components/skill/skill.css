@@ -7,7 +7,6 @@
 
 
 .column img {
-    width: 100%;
     height: auto;
     border-radius: 5px;
 }
@@ -17,4 +16,12 @@
     text-align: center;
 }
 
+@media screen and (min-width: 650px) and (max-width: 1050px) {
+    .columns {
+        display: initial;
+    }
 
+    .column {
+        text-align: center; /* Centre le contenu à l'intérieur des colonnes */
+    } 
+}
