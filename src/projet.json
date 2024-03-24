@@ -19,7 +19,6 @@
         "title": "Sophie Buel",
         "cover": "/image/sophie.webp",
         "link": "https://github.com/ocebert31/Portfolio-architecte-sophie-bluel-master",
-        "site": "https://playful-treacle-3ca505.netlify.app/index.html",
         "altImage": "Projet Sophie Buel",
         "tags": [
             "HTML",
@@ -43,14 +42,13 @@
             "React",
             "API"
         ],
-        "description": "Projet mené durant ma formation de développeur web chez Openclassroom, mettant l'accent sur l'exploration de React, des hooks, du système de routage et des composants."
+        "description": "Dans le cadre de ma formation chez Openclassroom pour devenir développeuse web, j'ai entrepris un projet mettant l'accent sur l'exploration de React, des hooks, du système de routage et des composants, tout en simulant un appel à l'API."
     },
     {
         "id": "jo9n6gt34",
         "title": "Mon vieux Grimoire",
         "cover": "/image/grimoire.webp",
         "link": "https://github.com/ocebert31/P7-Dev-Web-livres-main",
-        "site": "https://master--creative-croquembouche-db6e78.netlify.app/",
         "altImage": "Projet Mon vieux Grimoire",
         "tags": [
             "React",
